@@ -1,5 +1,5 @@
 # RESTful-API-design
-Designing a RESTful API that updates a MongoDB database, using mongoose commands based on the HTTP verbs passed to it.
+Designing a RESTful API that interacts with a MongoDB database, using Mongoose, based on the HTTP verbs passed to it.
 
 Technologies learned and used:
 - Node.js
